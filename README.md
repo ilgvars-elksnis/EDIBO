@@ -6,7 +6,21 @@ EDIBO projekta elektroniskā klade
 - Shell (basics)
 - Git (basics)
 
-### Tests
-Teksts1
-Teksts2  
-Teksts3
+#### Terminal (hot-keys)
+  ```
+  - pwd
+  - ls
+  - cd
+  - echo
+  - tree
+  - mkdir
+  - rmdir
+  - cat
+  ```
+   
+#### Saīsinājumi
+* Shift + Ctrl + T -terminālis 
+* Ctrl + L - clear
+* Shift + Ctrl + + - pietuvinām
+* Ctrl + - attālinām
+* Shift + Ctrl + T - jauns tabs 
