@@ -1,0 +1,39 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  l
+    4  psls
+    5  pwd
+    6  echo $0
+    7  sh
+    8  whoami
+    9  who
+   10  last
+   11  ls -l
+   12  ls -l -a
+   13  cd Desktop/
+   14  cd..
+   15  pwd
+   16  ls
+   17  cd /home
+   18  cd
+   19  pwd
+   20  tree
+   21  man tree
+   22  tree -d
+   23  nano
+   24  ls
+   25  cd EDIBO
+   26  hexdump -C README.md
+   27  nano README.md
+   28  cat README.md
+   29  history
+   30  history >history_20200807a.txt
+   31  ls
+   32  pwd
+   33  git config --global user.email Lion150@inbox.lv
+   34  git add .
+   35  git commit -m "20200807_13_30_pirmais_upload_no_cli"
+   36  git push origon master
+   37  git push origin master
+   38  history
+   39  history >history_20200807b.txt
