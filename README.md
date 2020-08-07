@@ -5,7 +5,7 @@ EDIBO projekta elektroniskā klade
 - Terminal (hot-keys)
 - Shell (basics)
 - Git (basics)
-
+- ASCII table
 #### Terminal (hot-keys)
   ```
   - pwd
@@ -28,3 +28,7 @@ EDIBO projekta elektroniskā klade
 * Shift + Ctrl + T - jauns tabs 
 ```
 Papildus [saīsinājumi](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)
+
+#### ASCII table
+
+[ASCII table](http://www.ecowin.org/ascii.htm)
