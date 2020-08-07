@@ -17,10 +17,14 @@ EDIBO projekta elektroniskā klade
   - rmdir
   - cat
   ```
+   Plašāks [bash](https://ss64.com/bash/) komandu saraksts
    
 #### Saīsinājumi
+```
 * Shift + Ctrl + T -terminālis 
 * Ctrl + L - clear
 * Shift + Ctrl + + - pietuvinām
 * Ctrl + - attālinām
 * Shift + Ctrl + T - jauns tabs 
+```
+Papildus [saīsinājumi](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)
