@@ -32,3 +32,26 @@ Papildus [saīsinājumi](https://code.visualstudio.com/shortcuts/keyboard-shortc
 #### ASCII table
 
 [ASCII table](http://www.ecowin.org/ascii.htm)
+
+##Day 4
+
+####
+1. darbs ar mainīgājiem - Unix /  Linux - using Shell Variables
+https://www.tutorialspoint.com/unix/unix-using-variables.htm
+test.sh
+test2.sh
+
+2. darbs ar speciāliem mainīgiem -  Unix / Linux - Special Variables
+https://www.tutorialspoint.com/unix/unix-special-variables.htm
+test3.sh
+test4.sh
+
+3. darbs ar mainīgo masīvu - Unix / Linux Using Shell Arrays
+https://www.tutorialspoint.com/unix/unix-using-arrays.htm
+test5.sh
+test6.sh
+
+4. darbs ar operācijām - Unix / Linux - Shell Basic Operators
+https://www.tutorialspoint.com/unix/unix-basic-operators.htm
+test7.sh
+
