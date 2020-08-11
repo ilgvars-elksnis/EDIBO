@@ -21,3 +21,12 @@ https://www.tutorialspoint.com/unix/unix-special-variables.htm
 https://www.tutorialspoint.com/unix/unix-using-arrays.htm
 4. darbs ar operācijām - Unix / Linux - Shell Basic Operators
 https://www.tutorialspoint.com/unix/unix-basic-operators.htm
+5. darbs ar nosacījumu operatoru - Unix / Linux - Shell Decision Making
+https://www.tutorialspoint.com/unix/unix-decision-making.htm
+6. darbs ar cikliem - Unix / Linux - Shell Loop Types
+https://www.tutorialspoint.com/unix/unix-shell-loops.htm
+https://www.tutorialspoint.com/unix/unix-loop-control.htm
+
+-------------------------------------------------------------------------
+Uzrakstīt skriptu, kurš lietotāja ievadīto skaitli parveido no dec uz bin
+-------------------------------------------------------------------------

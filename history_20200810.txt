@@ -66,3 +66,21 @@
    66  ls
    67  nano git-upload
    68  history > history_20200810.txt
+   69  ls
+   70  git-upload
+   71  ./git-upload
+   72  cd SHELL
+   73  ls
+   74  nano md1.sh
+   75  ./md1.sh 
+   76  nano md1.sh
+   77  ./md1.sh 
+   78  nano md1.sh
+   79  ./md1.sh 
+   80  nano md1.sh
+   81  ./md1.sh 
+   82  nano md1.sh
+   83  ./md1.sh 
+   84  nano md1.sh
+   85  cd ..
+   86  history > history_20200810.txt

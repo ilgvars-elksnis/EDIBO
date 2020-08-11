@@ -55,3 +55,15 @@ test6.sh
 https://www.tutorialspoint.com/unix/unix-basic-operators.htm
 test7.sh
 
+
+5. darbs ar nosacījumu operatoru - Unix / Linux - Shell Decision Making
+https://www.tutorialspoint.com/unix/unix-decision-making.htm
+
+
+
+6. darbs ar cikliem - Unix / Linux - Shell Loop Types
+https://www.tutorialspoint.com/unix/unix-shell-loops.htm
+https://www.tutorialspoint.com/unix/unix-loop-control.htm
+test8.sh
+test9.sh
+test10.sh
