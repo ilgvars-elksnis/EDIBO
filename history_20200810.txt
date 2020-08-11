@@ -1,0 +1,68 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ls
+    4  cd EDIBO
+    5  ls
+    6  cd SHELL
+    7  nano test.sh
+    8  chmod 744 test.sh
+    9  ls
+   10  test.sh
+   11  ./test.sh 
+   12  nano test2.sh
+   13  chmod 744 test2.sh
+   14  ./test2.sh 
+   15  nano test3.sh
+   16  chmod 744 test3.sh
+   17  ./test3.sh 
+   18  ./test3.sh ZARA ALI
+   19  nano test4.sh
+   20  chmod 744 test4.sh
+   21  ./test4.sh ZARA ALI IS ANNOYING
+   22  nano test5.sh
+   23  chmod 744 test5.sh
+   24  ./test5.sh 
+   25  nano test5.sh
+   26  NAME[0]="Zara"
+   27  ./test5.sh 
+   28  NAME[1]="Qadir"
+   29  echo $NAME[1]
+   30  nano test5.sh
+   31  chmod 744 test5.sh
+   32  ls
+   33  ./test5.sh 
+   34  nano test6.sh
+   35  chmod 744 test6.sh
+   36  ./test6.sh 
+   37  nano test7.sh
+   38  chmod 744 test7.sh
+   39  ./test7.sh 
+   40  ls
+   41  cd..
+   42  ls -l
+   43  cd ..
+   44  ls -l
+   45  git-upload
+   46  ./git-upload
+   47  cd SHELL
+   48  ls
+   49  nano test8.sh
+   50  chmod 744 test8.sh
+   51  ./test8.sh 
+   52  nano test8.sh
+   53  ./test8.sh 
+   54  nano test9.sh
+   55  chmod 744 test9.sh
+   56  ./test9.sh 
+   57  nano test10.sh
+   58  chmod 744 test10.sh
+   59  ./test10.sh 
+   60  nano md1.sh
+   61  chmod 744 md1.sh
+   62  ./md.sh 
+   63  ./md1.sh 
+   64  nano git-upload
+   65  cd ..
+   66  ls
+   67  nano git-upload
+   68  history > history_20200810.txt
