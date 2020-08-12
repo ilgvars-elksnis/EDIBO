@@ -1,0 +1,42 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  cd /EDIBO/SHELL
+    4  ls
+    5  cd EDIBO
+    6  cd SHELL
+    7  ls
+    8  md1.sh > md2.sh
+    9  cp md1.sh md2.sh
+   10  ls
+   11  nano md2.sh
+   12  chmod 744 md2.sh
+   13  ls
+   14  ./md2.sh
+   15  ls
+   16  ./md2.sh
+   17  nano md2.sh
+   18  ./md2.sh
+   19  nano md2.sh
+   20  ./md2.sh
+   21  nano md2.sh
+   22  ./md2.sh
+   23  nano md2.sh
+   24  fg
+   25  ./md2.sh
+   26  nano md3.sh
+   27  chmod 744 md3.sh
+   28  ./md3.sh
+   29  nano md3.sh
+   30  ./md3.sh
+   31  nano md3.sh
+   32  ./md3.sh
+   33  nano md3.sh
+   34  cd..
+   35  cd ..
+   36  mkdir Python
+   37  cd Python
+   38  pwd
+   39  nano README.md
+   40  cd ..
+   41  history
+   42  history > history_20200812b.txt

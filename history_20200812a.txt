@@ -1,0 +1,22 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  python
+    4  ipython
+    5  nano first_python_script.p
+    6  nano first_python_script.py
+    7  python first_python_script.py 
+    8  nano first_python_script.py
+    9  python first_python_script.py 
+   10  cp first_python_script.py second_python_script.py 
+   11  cp first_python_script.py second_python_script_like_executable.py 
+   12  ls -l
+   13  rm second_python_script.py
+   14  ls
+   15  nano second_python_script_like_executable.py 
+   16  chmod 744 second_python_script_like_executable.py 
+   17  ls
+   18  ./second_python_script_like_executable.py 
+   19  idle &
+   20  ls -lt
+   21  cd ..
+   22  history > history_20200812a.txt
