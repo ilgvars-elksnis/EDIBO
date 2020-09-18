@@ -2,5 +2,5 @@
 
 git config --global user.email Lion150@inbox.lv
 git add .
-git commit -m "20200816_20_00"
+git commit -m "$(date '+%Y%m%d_%H_%M')"
 git push origin master
